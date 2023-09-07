@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Meksandor
-- 👀 I’m interested in web development,web design,creating applications and learning coding languages.
-- 🌱 I’m currently learning Python just for now.
-- 💞️ I’m looking to collaborate on making web sites,developing softwares
-- 📫 How to reach me from Discord this my DC code -Meksandor-#6208
+- 👀 I’m interested in web development,web design and creating applications.
+- 🌱 I’m currently studying Web Dev.
+- 💞️ I’m looking to collaborate on making web sites,developing softwares and making mobile apps.
+- 📫 Want to reach me from Discord? This my DC -Meksandor-#6208
 
 <!---
 Meksandor/Meksandor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
